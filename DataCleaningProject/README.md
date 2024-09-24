@@ -1,0 +1,1 @@
+In this Data Cleaning Project, We focused on identifying and handling missing or NULL values, correcting inconsistent or incorrectly formatted data, and ensuring standardization across data entries. This includes tasks like filling or removing nulls, normalizing text formats, and fixing data types. The goal is to prepare the data for accurate analysis and reporting.

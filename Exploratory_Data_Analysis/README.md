@@ -15,4 +15,6 @@ Few analysis covered are as follows:
 10. -- Highest ranked companies that laidoff employees in the years 2020 to 2023 --
 
 File used for exploratory data analysis: https://github.com/bhanuchandrika99/DataAnalyticsBootcamp/blob/main/DataCleaningProject/layoffs_cleaned.csv
-Highest ranked companies that laidoff employees in the years 2020 to 2023 :
+
+
+Highest ranked companies that laidoff employees in the years 2020 to 2023 : https://github.com/bhanuchandrika99/DataAnalyticsBootcamp/blob/main/Exploratory_Data_Analysis/highest_ranked_companies.csv

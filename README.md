@@ -1,7 +1,8 @@
 # DataAnalyticsBootcamp
 Data Analytics Bootcamp by AlextheAnalyst
 
-Implemented the Data Cleaning Project using the raw data.
+Implemented the Data Cleaning Project using SQL.
+Raw Data:
 https://github.com/bhanuchandrika99/DataAnalyticsBootcamp/blob/main/DataCleaningProject/layoffs.csv
 
 Cleaned data: 
